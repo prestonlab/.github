@@ -6,4 +6,4 @@ At the Preston Lab, we use a combination of behavioral and brain imaging techniq
 
 [<img src="https://en.wikipedia.org/static/favicon/wikipedia.ico" alt="Wiki icon" style="width: 20px"> Lab wiki](https://github.com/prestonlab/wiki/wiki)
 
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="width: 20px"> Support ticket](https://github.com/prestonlab/wiki/issues/new/choose)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="width: 20px"> Support ticket](https://github.com/prestonlab/wiki/issues/new?assignees=mortonne&labels=&template=custom.md&title=%5BRequest%5D)
