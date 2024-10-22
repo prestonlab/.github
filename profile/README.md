@@ -1,6 +1,6 @@
 At the Preston Lab, we use a combination of behavioral and brain imaging techniques to explore how we form new memories, how we remember past experiences, and how our memory for the past influences what we learn in the present.
 
-[<img src="https://clm.utexas.edu/preston/wp-content/uploads/fbrfg/favicon-32x32.png?v=5478" alt="Homepage icon" style="width: 20px"> Lab homepage](https://clm.utexas.edu/preston/)
+[<img src="https://clm.utexas.edu/preston/wp-content/uploads/fbrfg/favicon-32x32.png?v=5478" alt="Homepage icon" style="width: 20px"> Lab homepage](preston.clm.utexas.edu)
 
 [<img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="Twitter icon" style="width: 20px"> Lab twitter](https://twitter.com/preston_lab)
 
